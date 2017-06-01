@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 import re
-from languages import LANGUAGES
 """This is the entry point of the program."""
 
 def detect_language(text, languages):
